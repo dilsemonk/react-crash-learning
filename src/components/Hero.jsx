@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Hero = ({ title, subtitle }) => {
   return (
     <div>

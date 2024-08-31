@@ -1,8 +1,7 @@
+import JobListings from "../components/JobListings"
 const JobPage = () => {
   return (
-    <div>
-      Job!
-    </div>
+    <JobListings showAll='True' />
   )
 }
 
